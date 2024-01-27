@@ -19,15 +19,16 @@ Hacemos el git commit y describimos los cambios que hemos confirmado:
 
 ![](image-3.png)
 
-git status
-git add .
-git commit -m "TU MENSAJE"
-git push
+Ahora vamos a hacer el git push. Este comando nos permite subir los cambios de mi repositorio local al remoto:
 
-git checkout -b feature/1
-git checkout main
-```
+![](image-4.png)
 
-## ¿Cómo escribir un README.md con formato?
+Finalmente vamos a probar los comandos de checkout. En primer lugar el git checkout -b "name" crea una nueva rama con el nombre "name" y te mueve a ella.
 
-[Github Markdown](https://docs.github.com/es/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+!(image-5.png)
+
+Por último el git checkout main cambia a la rama main pero como ya esta creada no utiliza la -b:
+
+![](image-6.png)
+
+Como ya hemos terminado necesito hacer un commit de el README ya que estoy realiando la práctica aqui ademas de añadir todas las imagenes que he ido pegando y hacer un commit de ellas . 
