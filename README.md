@@ -1,15 +1,24 @@
 # Práctica 1
 
-Un repositorio para empezar a usar [git](https://git-scm.com/) y Github
-
-## ¿Como probar en la nube?
-
-[Github-Codespaces](https://github.com/features/codespaces)
+Este es el repositorio: https://github.com/GabrielIcai/p1 
 
 ## Comandos git básicos
+Empezamos haciendo un git clone de p1 para tenerlo en local. Primero me muevo a tmp:
 
-```
-git clone https://github.com/gitt-3-pat/p1
+![Comando git clone](image.png)
+
+Ahora me voy a crear un fichero que se llame prueba1 y con git status podremos ver información como comprobar si han habido cambios, la rama en la que me encuentro etc. Pero antes es necesario utilizar un git add para añadir el fichero:
+
+![Comando git add y git status](image-1.png)
+
+Ahora es necesario confirmar esos cambios. Como se puede observar en la imagen de debajo sigue habiendo cambios al escrcibir sobre el README que no estan confirmados:
+
+![](image-2.png)
+
+Hacemos el git commit y describimos los cambios que hemos confirmado:
+
+![](image-3.png)
+
 git status
 git add .
 git commit -m "TU MENSAJE"
