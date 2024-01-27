@@ -25,7 +25,7 @@ Ahora vamos a hacer el git push. Este comando nos permite subir los cambios de m
 
 Finalmente vamos a probar los comandos de checkout. En primer lugar el git checkout -b "name" crea una nueva rama con el nombre "name" y te mueve a ella.
 
-!(image-5.png)
+![](image-5.png)
 
 Por último el git checkout main cambia a la rama main pero como ya esta creada no utiliza la -b:
 
