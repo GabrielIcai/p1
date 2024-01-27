@@ -32,3 +32,9 @@ Por último el git checkout main cambia a la rama main pero como ya esta creada 
 ![](image-6.png)
 
 Como ya hemos terminado necesito hacer un commit de el README ya que estoy realiando la práctica aqui ademas de añadir todas las imagenes que he ido pegando y hacer un commit de ellas . 
+
+Softwares Requeridos:
+![](image-7.png)
+![](image-8.png)
+![](image-9.png)
+![](image-10.png)
